@@ -16,7 +16,7 @@
   font-style: italic;
   }
   
-  img {
+  .card img {
     width: 150px;
     height: 190px;
     border-radius: 5px;
@@ -28,14 +28,18 @@
   padding: 10px; 
   margin: 20px; 
   height: 400px; 
-  background-image: url('./lm.jpg');
+  /* background-image: url('./lm.jpg');
   background-repeat: no-repeat;
-  background-position: 10% 100%;
+  background-position: 10% 100%; */
   font-size: 30px;
   text-align: center;
   display: flex; 
   align-items: center;
-  justify-content: center;
+  justify-content: start;
   border-radius: 10px;
   border: 2px solid rgb(119, 86, 86);
+  }
+
+  .button img {
+    margin-top: 65px;
   }
