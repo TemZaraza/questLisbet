@@ -32,6 +32,7 @@
   height: 400px; 
   background-image: url('lisbet.png');
   background-repeat: no-repeat;
+  background-size: contain;
   background-position: 10% 100%;
   font-size: 30px;
   text-align: center;
