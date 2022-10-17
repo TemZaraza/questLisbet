@@ -36,9 +36,6 @@
   background-position: 10% 100%;
   font-size: 30px;
   text-align: center;
-  display: flex; 
-  align-items: flex-start;
-  justify-content: center;
   border-radius: 10px;
   border: 2px solid rgb(119, 86, 86);
   }
