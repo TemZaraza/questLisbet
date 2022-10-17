@@ -28,7 +28,7 @@
   padding: 10px; 
   margin: 20px; 
   height: 400px; 
-  background-image: url('lm.jpg');
+  background-image: url('./lm.jpg');
   background-repeat: no-repeat;
   background-position: 10% 100%;
   font-size: 30px;
