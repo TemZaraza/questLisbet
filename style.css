@@ -1,4 +1,6 @@
 .container {
+    margin: auto;
+    width: 100%;
     max-width: 1000px;
     margin: auto;
 }
@@ -28,18 +30,16 @@
   padding: 10px; 
   margin: 20px; 
   height: 400px; 
-  /* background-image: url('./lm.jpg');
+  background-image: url('lisbet.png');
   background-repeat: no-repeat;
-  background-position: 10% 100%; */
+  background-position: 10% 100%;
   font-size: 30px;
   text-align: center;
   display: flex; 
   align-items: center;
-  justify-content: start;
+  justify-content: center;
   border-radius: 10px;
   border: 2px solid rgb(119, 86, 86);
   }
 
-  .button img {
-    margin-top: 65px;
-  }
+ 
